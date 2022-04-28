@@ -25,30 +25,30 @@ export default function Contact() {
           <div className="contact_icon">
             <div className="call">
               <div>Call me at:</div>
-              <p>+91-9953027511</p>
+              <p>+91-7003063362</p>
               </div>
                <div className="call">
               <div>Mail me at:</div>
-              <p>shekhar.shashi735@gmail.com</p>
+              <p>tarasishb@gmail.com</p>
             </div>
             
             </div>
             <div className="icoL">
                 <div className="icoL_icon">
                   
-                <a href="mailto:shekhar.shashi735@gmail.com"><EmailIcon style={{width: "60px",
+                <a href="mailto:tarasishb@gmail.com"><EmailIcon style={{width: "60px",
     height: "50px"}}/></a>
                 
               </div>
 
                 <div className="icoL_icon">
-                  <a target="_blank" href="https://www.linkedin.com/in/shashi-kumar-0a4835150/"><LinkedInIcon style={{width: "60px",
+                  <a target="_blank" href="https://www.linkedin.com/in/tarasish-bhattacharya-41413a176/"><LinkedInIcon style={{width: "60px",
     height: "50px"}}/></a>
                 
               </div>
 
                 <div className="icoL_icon">
-                  <a target="_blank" href="https://github.com/shashifw11"><GitHubIcon style={{width: "60px",
+                  <a target="_blank" href="https://github.com/Tarasishbhattacharya"><GitHubIcon style={{width: "60px",
     height: "45px"}}/></a>
                 
               </div>

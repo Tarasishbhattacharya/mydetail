@@ -9,8 +9,8 @@ export default function About() {
         <div className="line"></div>
         <div className="parCont">
           <div className="para">
-            <h2>Hi , I am Shashi</h2>
-           🏡 I am from Patna , Bihar.
+            <h2>Hi , I am Tarasish Bhattacharya</h2>
+           🏡 I am from Kolkata , West Bengal.
              <br />
            <br />
             I am a Full-Stack Web Developer.

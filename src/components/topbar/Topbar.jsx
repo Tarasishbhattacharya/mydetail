@@ -8,7 +8,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
       <div className="wrapper">
         <div className="left">
           <a href="#intro" className="logo">
-            <img src="favicon.ico" alt="" />
+            {/* <img src="favicon.ico" alt="" /> */}
           </a>
           <div className="option">
             <div className="itemContainer,option">
@@ -28,7 +28,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
           
             
             </div>
-               <div className="itemContainer" onClick={() => window.open("assets/shashiResume.pdf", "_blank")}>
+               <div className="itemContainer" onClick={() => window.open("assets/Resume_Tarasish Bhattacharya.pdf", "_blank")}>
               <span style={{ display: "flex" }}><GetAppIcon style={{height:"18px",margin:"2px",borderBottom:"none"}}/>  Resume</span>
           
             

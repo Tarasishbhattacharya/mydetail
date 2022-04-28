@@ -9,18 +9,18 @@ export default function Projects() {
 
       <div className="pcards">
         <div className="pimg">
-          <img src={"assets/hotstar_homepage.png"} alt="" />
+          <img src={"assets/blinkit.png"} alt="" />
         </div>
         <div className="pinf">
-        <h3>Disney+ Hotstar(clone)</h3>
+        <h3>Blinkit(clone)</h3>
           <p>
-          Disney+ Hotstar is India’s largest premium streaming platform.
+          It is a Blinkit clone . Blinkit is an Indian instant delivery service. Customers of the company use a mobile application to order groceries and essentials online.
            </p>
           <h4>Tech Stack</h4>
-          <p>React . JavaScript . MongoDB . Node Js . Express Js . CSS . Material Ui . FireBase</p>
+          <p>JavaScript . HTML . CSS </p>
           <div className="card_btn">
-            <button><a target="_blank" href="https://hotstarclonereact.netlify.app/">DEMO</a></button>
-            <button><a target="_blank" href="https://github.com/shashifw11/hotstar-project-"> CODE</a></button>
+            <button><a target="_blank" href="https://blinkit200.vercel.app/">DEMO</a></button>
+            <button><a target="_blank" href="https://github.com/Tarasishbhattacharya/blinkit200"> CODE</a></button>
           </div>
         </div>
       </div>
@@ -28,20 +28,20 @@ export default function Projects() {
 
       <div className="pcards">
         <div className="pimg">
-          <img src={"assets/ZoomCar-homepage.png"} alt="" />
+          <img src={"assets/unsplash.png"} alt="" />
         </div>
         <div className="pinf">
           {/* <div className="pinfone"> */}
-          <h3>ZOOMCAR(clone)</h3>
+          <h3>unsplash(clone)</h3>
           <p>
-            A clone of Zoomcar is a self-drive car rental service.
+          Unsplash is a website dedicated to sharing stock photography under the Unsplash license
             </p>
             {/* </div> */}
           <h4>Tech Stack</h4>
-          <p>HTML5 . CSS3 . Javascript  . Mongodb . Nodejs . expressjs </p>
+          <p>HTML5 . CSS3 . Javascript  </p>
           <div className="card_btn">
-            <button><a target="_blank" href="http://3.82.160.93:2345/home">DEMO</a></button>
-            <button><a target="_blank" href="https://github.com/Raosandeep007/Zoom-Car-Clone"> CODE</a></button>
+            <button><a target="_blank" href="https://nervous-williams-2b9202.netlify.app/products.html">DEMO</a></button>
+            <button><a target="_blank" href="https://github.com/Tarasishbhattacharya/Unsplash-clone"> CODE</a></button>
           </div>
         </div>
           </div>
@@ -50,26 +50,26 @@ export default function Projects() {
 
        <div className="pcards">
         <div className="pimg">
-          <img src={"assets/KFC-homepage.png"} alt="" />
+          <img src={"assets/food.png"} alt="" />
         </div>
         <div className="pinf">
-        <h3>KFC(clone)</h3>
+        <h3>Food app</h3>
           <p>
-           KFC is a fast-food brand and quick-serve restaurant
-             specializing in fried chicken.
+          About
+It is a Food Recipe app. Those who want to make different items in his/her free time they can get recipe from the app and also search different type of foods.
            </p>
           <h4>Tech Stack</h4>
           <p>HTML . CSS . Javascript . Local Storage</p>
           <div className="card_btn">
-            <button><a target="_blank" href="https://shashikfc.netlify.app/">DEMO</a></button>
-            <button><a target="_blank" href="https://github.com/shashifw11/SHASHIKFC-"> CODE</a></button>
+            <button><a target="_blank" href="https://fancy-sopapillas-b15093.netlify.app/index.html">DEMO</a></button>
+            <button><a target="_blank" href="https://github.com/Tarasishbhattacharya/food_app"> CODE</a></button>
           </div>
         </div>
       </div>
 
       
 
-      <div className="pcards">
+      {/* <div className="pcards">
         <div className="pimg">
           <img src={"assets/lakme.png"} alt="" />
         </div>
@@ -86,7 +86,7 @@ export default function Projects() {
             <button><a target="_blank" href=" https://github.com/nkil123/lakme_clone"> CODE</a></button>
           </div>
         </div>
-      </div>
+      </div> */}
 
 
           {/* <div className="pcards">

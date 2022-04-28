@@ -21,12 +21,12 @@ export default function Intro() {
            <div className="right">
         <div className="wrapper">
           <h2>Hi There, I'm <span style={{ height:"20px",width:"20px"}}><img style={{height:"30px"}} src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" alt="" /></span></h2>
-          <h1>Shashi Kumar</h1>
+          <h1>Tarasish <br></br>Bhattacharya</h1>
           <h3>
             a <span ref={textRef}></span>
           </h3>
-          <h3 style={{ marginTop: "10px" }}>I'm from Patna,Bihar</h3>
-          <button className="btn" onClick={() => window.open("assets/shashiResume.pdf", "_blank")}><span><DescriptionIcon style={{height:"17px", width:"20px"}}/></span>Resume</button>
+          <h3 style={{ marginTop: "10px" }}>I'm from Kolkata,West Bengal</h3>
+          <button className="btn" onClick={() => window.open("assets/Resume_Tarasish Bhattacharya.pdf", "_blank")}><span><DescriptionIcon style={{height:"17px", width:"20px"}}/></span>Resume</button>
         </div>
         <a href="#portfolio">
           <img src="assets/down.png" alt="" />
@@ -35,7 +35,7 @@ export default function Intro() {
       <div className="left">
         <div className="imgContainer">
           
-          <img src="assets/ShashiKr.jpeg" alt="" />
+          <img src="assets/Tarasish.jpeg" alt="" />
         </div>
       </div>
      
