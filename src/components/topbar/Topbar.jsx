@@ -13,10 +13,14 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
           <div className="option">
             <div className="itemContainer,option">
            <span> <a href="#intro">Home</a></span>
+          </div>
+
+          <div className="itemContainer">
+           <span>  <a href="#about">About</a></span>
                      
           </div>
           <div className="itemContainer">
-           <span>  <a href="#about">About</a></span>
+           <span>  <a href="#about">Skill</a></span>
                      
           </div>
           <div className="itemContainer">
