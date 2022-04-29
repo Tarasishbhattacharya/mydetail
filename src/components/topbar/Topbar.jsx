@@ -20,7 +20,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
                      
           </div>
           <div className="itemContainer">
-           <span>  <a href="#about">Skill</a></span>
+           <span>  <a href="#prof">Skills</a></span>
                      
           </div>
           <div className="itemContainer">
